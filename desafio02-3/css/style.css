@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img.logo{
+    width: 200px;
+}
+
+h2{
+    color:#BC5397;
+    letter-spacing: 14px;
+    font-weight: 100;
+    
+}
+
+h3{
+    text-align: left;
+    color:#BC5397;
+    letter-spacing: 4px;
+    font-weight: 500;
+}
+
+p{
+    text-align: justify;
+    color: #3083bf;
+}
+
+.pop-century{
+    float:right;
+    width: 400px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+.caribbean-beach{
+    float: left;
+    width: 400px;
+    margin-right: 7px;
+}
+
+.animal-kingdom{
+    float:right;
+    width: 400px;
+    margin-left: 7px;
+}
+
+.mickey-minnie{
+    width: 100%;
+    margin-top: 5px;
+}
+
